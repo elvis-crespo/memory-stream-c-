@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryStream", "MemoryStream\MemoryStream.csproj", "{4F46090E-7961-4148-B16A-313EBC05C95D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F46090E-7961-4148-B16A-313EBC05C95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F46090E-7961-4148-B16A-313EBC05C95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F46090E-7961-4148-B16A-313EBC05C95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F46090E-7961-4148-B16A-313EBC05C95D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF447BCE-3483-4FB3-B791-13B65580BFE0}
+	EndGlobalSection
+EndGlobal

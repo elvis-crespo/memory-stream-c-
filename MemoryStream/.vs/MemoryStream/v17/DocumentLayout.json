@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elvis Crespo\\Documents\\Documents\\Programaci\u00F3n\\C#-CURSO\\Seccion13_MemoryStream\\MemoryStream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F46090E-7961-4148-B16A-313EBC05C95D}|MemoryStream\\MemoryStream.csproj|c:\\users\\elvis crespo\\documents\\documents\\programaci\u00F3n\\c#-curso\\seccion13_memorystream\\memorystream\\memorystream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F46090E-7961-4148-B16A-313EBC05C95D}|MemoryStream\\MemoryStream.csproj|solutionrelative:memorystream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elvis Crespo\\Documents\\Documents\\Programaci\u00F3n\\C#-CURSO\\Seccion13_MemoryStream\\MemoryStream\\MemoryStream\\Program.cs",
+              "RelativeDocumentMoniker": "MemoryStream\\Program.cs",
+              "ToolTip": "C:\\Users\\Elvis Crespo\\Documents\\Documents\\Programaci\u00F3n\\C#-CURSO\\Seccion13_MemoryStream\\MemoryStream\\MemoryStream\\Program.cs",
+              "RelativeToolTip": "MemoryStream\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:12:45.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

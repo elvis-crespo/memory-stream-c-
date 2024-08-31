@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "upxeH6bHFR8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elvis Crespo\\Documents\\Documents\\Programación\\C#-CURSO\\Seccion13_MemoryStream\\MemoryStreamEjemplo\\MemoryStreamEjemplo\\MemoryStreamEjemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elvis Crespo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Elvis Crespo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Elvis Crespo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Elvis Crespo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
